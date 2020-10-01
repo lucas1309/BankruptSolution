@@ -1,7 +1,7 @@
 Bankrupt
 
 A linguagem escolhida foi python3.8, por favor verifique a versão do python em seu ambiente antes de executar.
-Verifique se existem os arquivos "BankruptCore", "gameConfig (1)" (Exatamente com este nome) e "main" antes de executar.
+Verifique se existem os arquivos "BankruptCore", "gameConfig (1)" (Exatamente com este nome) e "main" antes de executar. Caso algum arquivo não seja localizado, realize novamente o download. Você pode encontrar uma versão atualizada no link https://github.com/lucas1309/BankruptSolution
 Para executar, inicie o programa main.py . Deverá aparecer uma janela de prompt de comando com as informações solicitadas no documento enviado.
 
 Você pode, caso desejar, alterar a quantidade de jogos executados substituindo o valor da variável "qtdPartidas" localizada linha 4 do arquivo main.py
